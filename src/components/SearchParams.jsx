@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import Pet from "./Pet.jsx";
 import Results from "./Results.jsx";
 import useBreedList from "../hooks/useBreedList.jsx";
 
